@@ -47,7 +47,7 @@ A production-ready full-stack authentication system built with **Node.js**, **Ex
 
 ---
 
-##  Project Str
+##  Project Structure
 
 ```
 auth-system/
