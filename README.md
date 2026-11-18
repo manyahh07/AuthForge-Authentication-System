@@ -5,7 +5,7 @@ A production-ready full-stack authentication system built with **Node.js**, **Ex
 ---
 
 
-##  Preview
+##  Pre
 
 ### Login Page
 ![Login Page](./LogIn%20Page.png)
